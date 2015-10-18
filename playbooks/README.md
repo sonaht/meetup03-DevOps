@@ -5,7 +5,8 @@
 ## Material - playbooks
 
 1. playbook alpha
-2. playbokk beta
+2. playbook beta
+3. playbook gamma
 
 etc ...
 
